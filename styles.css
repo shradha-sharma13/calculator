@@ -1,0 +1,55 @@
+body{
+  background-color:#F0D9E7;
+  background-image: url("images/cal.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+
+}
+h1{
+  font-size: 4.0rem;
+  font-family: 'Otomanopee One', sans-serif;
+  font-weight: bold;
+  color:  #ff4c68;
+  margin-top: 10;
+}
+table{
+  margin: auto;
+
+}
+table td{
+  padding: 6px;
+}
+
+.num{
+  border-radius: 13px;
+  font-family: 'Libre Baskerville', serif;
+  font-size: 25px;
+  margin: 5%;
+  height: 65px;
+  width: 120px;
+  padding-right: 10%;
+}
+.outer{
+  padding-top: 5%;
+
+}
+.calculator{
+
+
+  padding-bottom:  5%;
+  padding-top: 5%;
+  margin-bottom: 10%;
+  margin-top: 5%;
+  margin-left: 10%;
+  margin-right: 10%;
+
+}
+#screen{
+  margin-bottom: 3%;
+  border-radius: 21px;
+  border: 5px solid grey;
+  font-size:34px;
+  height: 65px;
+  width: 456px;
+}
